@@ -1,4 +1,3 @@
-# 3D-BALL-in-Unity
 # 🔴 3D Ball Game
 
 **🛠️ Engine:** `Unity 2022.3+` &nbsp;&nbsp;|&nbsp;&nbsp; **🎮 Platform:** `PC / Console` &nbsp;&nbsp;|&nbsp;&nbsp; **📄 License:** `MIT`
