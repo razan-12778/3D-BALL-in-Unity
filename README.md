@@ -62,5 +62,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 © 2026. All Rights Reserved. Designed and Developed by Me.
 
 
-![Uploading Screenshot 1447-11-24 at 8.19.22 PM.png…]()
-![Uploading Screenshot 1447-11-24 at 5.15.43 PM.png…]()
+<img width="1089" height="539" alt="Screenshot 1447-11-24 at 5 15 43 PM" src="https://github.com/user-attachments/assets/661dca17-8f55-411d-8146-1522612fed24" />
+<img width="1219" height="802" alt="Screenshot 1447-11-24 at 8 19 22 PM" src="https://github.com/user-attachments/assets/b59229f1-2ef5-44ef-a3d9-4cbabe977da0" />
+
